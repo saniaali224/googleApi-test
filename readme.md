@@ -18,4 +18,4 @@ https://appname-api.herokuapp.com/
 # Short description of api routes
 
 
-/map/get ---- for getting the map  
+/calculate-distance ---- for getting the map  
